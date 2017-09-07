@@ -1,0 +1,7 @@
+Task WEEK 00
+
+The students were required to do some steps to make an account on GitHub :
+1. First we maked  a GitHub account 
+2. If we had maked a GitHub account, we created a repository in our GitHub named os172
+3. Then we must registered on a form with our personal data on google doc Operating System 2017 - 2 Data
+4. After our registration has processed, we login to badak.cs.ui.ac.id(10.119.1.2) through ssh by using our SIAK Accounts. 
