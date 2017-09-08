@@ -1,0 +1,15 @@
+Tugas Week 01
+
+1. Membuat Clone antara tempat penyimpanan file saya di GitHub dengan terminal badak.cs.ui.ac.id
+2. Untuk mengecek apakah proses Clone berhasil atau tidak, gunakan perintah ls -al
+3. Kemudian saya membuat folder sebanyak 15 folder pada direktori os172. caranya : mkdir <nama_folder>
+4. Setelah itu saya membuat file kosong pada sebuah folder, contoh week00. caranya : touch <nama_file>
+5. Melakukan hal no.4 pada setiap folder
+6. Kemudian saya meghapus file pada salah satu folder. caranya : rm -f <nama_file>
+7. Tugas berikutnya, saya membuat deskripsi pendek di dalam sebuah file dengan menggunakan text editor (nano) berisi tentang tugas yang saya kerjakan pada week 00
+8. Tugas berikutnya, saya memindahkan file ke folder lain. Contoh : dummy pada week01 dipindahkan ke folder week 00. caranya : mv <nama_file> <nama_folder>
+9. Kemudian saya mengecek lokasi direktori dengan : pwd
+10. Kemudian saya membuat file baru lagi di dalam folder week 01 menggunakan vi
+11. Kemudian Push dan Pull 
+12. Setelah itu saya mengedit isi file dan mengubah commit melalui github
+ 
