@@ -1,1 +1,4 @@
 #afriliadvi
+
+Kenapa kita mempelajari Sistem Operasi?
+Menurut saya, dengan mempelajari SO kita menegetahui struktur dasar sistem perangkat lunak pada komputer. Selain itu kita juga bisa mengetahui bagaimana script pada sistem operasi itu dibuat dan dijalankan. Kita bisa mengetahuinya dari Sistem Operasi yang bersifat Open Source.
